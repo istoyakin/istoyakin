@@ -55,7 +55,7 @@ function OZON_import() {
                   'payload': JSON.stringify(data),
                   'headers': {
                   'Client-Id': '59173',
-                  'Api-Key': '72ba412a-efd7-46c6-9e16-9f0fe9ad5551'
+                  'Api-Key': '98b45773-6865-4ac1-afc2-82859fd85963'
                   }
                 }
                 var response = UrlFetchApp.fetch('https://api-seller.ozon.ru/v1/analytics/data', options);
